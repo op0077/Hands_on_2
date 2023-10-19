@@ -1,12 +1,3 @@
-/*
-============================================================================
-Name : 14.c
-Author : Harshilkumar Buha
-Description : Write a simple program to create a pipe, write to the pipe, read from pipe and display on
-the monitor.
-Date : 27th aug, 2023.
-============================================================================
-*/
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>
